@@ -1,7 +1,7 @@
 # runner-game-for-desktop-with-unity
 
 
-It is a classic runner game. There are two more scenes besides the main scene. (daytime/ nightime)
+It is a classic runner game. 
 
 With the collected coins, the development options in the main scene can be used
 
